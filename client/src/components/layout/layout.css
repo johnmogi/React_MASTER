@@ -1,0 +1,9 @@
+.main{
+    margin:0 10%;
+}
+.header, .footer{
+    min-height:10vh;
+}
+.layout{
+    min-height:80vh;
+}
